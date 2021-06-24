@@ -53,3 +53,4 @@ while True:
 cap.release()
 cv2.destroyAllWindows()      
 print("Collecting Samples Complete")
+cap.release()
